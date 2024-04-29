@@ -18,9 +18,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
-
-- ⚡ Fun fact **Call me as KD**
+- 📫 How to reach me **dahaminethsarani2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

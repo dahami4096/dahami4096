@@ -5,7 +5,7 @@
 
 | ![Dahami's github stats](https://github-readme-stats.vercel.app/api?username=dahami4096&show_icons=true&theme=tokyonight) | ![Dahami GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Master11091&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahami4096&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dahami4096&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 ### My topic

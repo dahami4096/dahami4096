@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dahami Nethsarani</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dahami4096&label=Profile%20views&color=0e75b6&style=flat" alt="dahami4096" /> </p>
 

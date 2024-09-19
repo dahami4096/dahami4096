@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dahami4096&label=Profile%20views&color=0e75b6&style=flat" alt="dahami4096" /> </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="500" height="400"/>
 </div>
 
 | ![Dahami's github stats](https://github-readme-stats.vercel.app/api?username=dahami4096&show_icons=true&theme=tokyonight) | ![Dahami GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Master11091&theme=tokyonight) |
@@ -24,9 +24,9 @@
 
 - 🔭 I’m currently working on **Test**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **JavaScript, CSS, HTML**
 
 - 📫 How to reach me **dahaminethsarani2000@gmail.com**
 

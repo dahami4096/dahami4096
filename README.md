@@ -39,7 +39,7 @@
   width="40" height="40"/> </a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Material UI" 
   width="40" height="40"/> </a> <a href="https://medium.com/beginners-guide-to-mobile-web-development/whats-new-in-css-3-dcd7fa6122e1" target="_blank" rel="noreferrer">    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="bootstrap" width="40" height="40"> </a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=40/></a>
-    <a>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40/></a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="bootstrap" width="40" height="40"/></a>
    <a>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=40/> </a>
    <a>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width=40/> </a>
     </p>

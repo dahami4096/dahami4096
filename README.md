@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dahami4096&label=Profile%20views&color=0e75b6&style=flat" alt="dahami4096" /> </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="500" height="400"/>
+ <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="500">
 </div>
 
 | ![Dahami's github stats](https://github-readme-stats.vercel.app/api?username=dahami4096&show_icons=true&theme=tokyonight) | ![Dahami GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Master11091&theme=tokyonight) |

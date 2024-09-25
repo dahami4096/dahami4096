@@ -3,14 +3,17 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/dahami-weerakoon/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dahami4096&label=Profile%20views&color=0e75b6&style=flat" alt="dahami4096" /> </p>
+<br><br>
 
 <div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<!--  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> -->
 </div>
+<br><br>
+<br><br>
 
 | ![Dahami's github stats](https://github-readme-stats.vercel.app/api?username=dahami4096&show_icons=true&theme=tokyonight) | ![Dahami GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Master11091&theme=tokyonight) |
 | --- | --- |
